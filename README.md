@@ -26,7 +26,7 @@ Create a basic webpage.
 	* create a stylesheet with some selectors and rules; name your style sheet **styles.css**
 	* **use a minimum of 10 different css style attributes**
 5. Add at least one image to your awesomely ugly site
-6. Push your code to CSS-Student-Submissions organization on GitHub
+6. Push your changes to GitHub
 7. Deploy your site to gh-pages
 
 ### Hey, Mikey, I Think He Likes It Mode
