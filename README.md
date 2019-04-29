@@ -26,18 +26,8 @@ Create a basic webpage.
 	* create a stylesheet with some selectors and rules; name your style sheet **styles.css**
 	* **use a minimum of 10 different css style attributes**
 5. Add at least one image to your awesomely ugly site
-6. Deploy your site
-	* Create a repo on github under your account (**Big Green Button**). Name your repo **awesomely-ugly-website**.
-	* In terminal, make sure you are in the project folder (**awesomely-ugly-website**)
-	* Run the following commands:
-		* git init
-		* git add index.html styles.css
-		* git commit -m "YOUR COMMIT MESSAGE HERE"
-		* git remote add origin master SSH-GIT-REPO-ADDRESS-HERE
-		* git push -u origin master
-		* git checkout -b gh-pages
-		* git push -u origin gh-pages
-7. Push your assignment to the CSS-Student-Submissions organization on GitHub
+6. Push your code to CSS-Student-Submissions organization on GitHub
+7. Deploy your site to gh-pages
 
 ### Hey, Mikey, I Think He Likes It Mode
 
