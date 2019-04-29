@@ -12,7 +12,7 @@ Create a basic webpage.
 
 ### Deliverables
 
-* A GitHub repository containing an **index.html**, **styles.css**, and **norlaize.css**
+* A GitHub repository containing an **index.html**, **styles.css**, and **normalize.css**
 
 ### I'm a Web Developer Mode
 
