@@ -1,6 +1,9 @@
 body {
   background-color: #CCFFFF;
 }
+.heading {
+  padding-left: 35px;
+}
 li {
   list-style-type: none;
 }
@@ -23,4 +26,8 @@ img {
 }
 .sp {
   text-align: center;
+}
+
+.uppercase {
+  text-transform: uppercase;
 }
