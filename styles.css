@@ -1,3 +1,6 @@
+body {
+  background-color: #CCFFFF;
+}
 li {
   list-style-type: none;
 }
@@ -8,4 +11,16 @@ a {
 a:hover {
   text-decoration: none;
   color: black;
+}
+img {
+  border-radius: 10px;
+}
+.main-content {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.sp {
+  text-align: center;
 }
