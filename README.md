@@ -31,7 +31,7 @@ Create a basic webpage.
 ### Hey, Mikey, I Think He Likes It Mode
 
 * Add a button to your webpage that swaps out an image when you click it (HINT: JavaScript)
-* Sadly, the <blink> tag has been removed from html, re-implement it with JavaScript!
+* Sadly, the `<blink>` tag has been removed from html, re-implement it with JavaScript!
 * Scrolling marques really help grab the attention of would-be-customers, so add one to your site
 * Add a footer to your site with an "under construction" animated gif
 
